@@ -1,47 +1,73 @@
-# Power BI Orders Dashboard 📊
+Power BI Dashboards 📊
 
-This is a beginner Power BI project built as part of a recent workshop, using the **Orders and Details** dataset. It helped me get hands-on with transforming data and building visuals using Microsoft Power BI.
+This repository contains beginner-friendly Power BI projects built as part of workshops and practice sessions. These projects helped me get hands-on experience in data cleaning, modeling, and creating interactive dashboards.
 
----
+🔍 Projects Overview
+1️⃣ Orders Dashboard
 
-## 🔍 Project Overview
+A dashboard built using the Orders and Details dataset:
 
-In this dashboard, I explored:
-- Cleaning and transforming datasets
-- Building bar, pie, and line charts
-- Filtering data by category, sub-category, payment mode, state
-- Creating KPI cards to show total profit and amount
+Cleaned and transformed raw order data
 
----
+Built bar, pie, and line charts for sales analysis
 
-## 🧠 Skills Practiced
-- Power BI interface
-- Power Query (Data Cleaning)
-- DAX basics
-- Data modeling
-- Dashboard design
+Added filters for category, sub-category, payment mode, and state
 
----
+Created KPI cards for total profit and amount
 
-## 📷 Dashboard Preview
+2️⃣ IPL Insights Dashboard 🏏
 
-![Dashboard Screenshot](https://github.com/Lekha2349/power-bi-dashboards/issues)
+A cricket analytics dashboard built using IPL datasets:
 
----
+Datasets Used:
 
-## 📁 Dataset
-The project uses two CSV files:
-- `Orders.csv`
-- `Details.csv`
+matches.csv – Match-level details of IPL
 
-You can explore them in the repository.
+deliveries.csv – Ball-by-ball data
 
----
+orange_cap.csv – Orange Cap stats (top run-scorers)
 
-## 🚀 Next Steps
-- Add date-based filters (monthly/quarterly)
-- Explore publishing to Power BI Service
-- Try DAX measures like profit margin, % change, etc.
+purple_cap.csv – Purple Cap stats (top wicket-takers)
+
+Key Features:
+
+Team-wise performance and win rates
+
+Top batsmen and bowlers (Orange & Purple Cap analysis)
+
+Runs by match stages (Powerplay, Middle Overs, Death Overs)
+
+Player and team-based filtering
+
+🧠 Skills Practiced
+
+Power BI Interface
+
+Power Query (ETL & Data Cleaning)
+
+Data Modeling & Relationships
+
+DAX Basics (Measures & Calculated Columns)
+
+Dashboard & Report Design
+
+📷 Dashboard Preview
+
+📁 Datasets
+
+Orders Analysis: Orders.csv, Details.csv
+
+IPL Insights: matches.csv, deliveries.csv, orange_cap.csv, purple_cap.csv
+
+🚀 Next Steps
+
+Add time-based analysis (monthly, yearly trends)
+
+Explore advanced DAX calculations (e.g., % growth, profit margin)
+
+Integrate additional datasets for richer analysis
+
+Publish dashboards to Power BI Service
 
 ---
 
